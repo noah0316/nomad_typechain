@@ -1,0 +1,13 @@
+{
+  "name": "nomad_typechain",
+  "version": "1.0.0",
+  "description": "Learn typescript by making blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/noah0316/nomad_typechain",
+  "author": "noah0316",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
